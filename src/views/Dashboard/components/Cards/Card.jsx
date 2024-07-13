@@ -16,7 +16,7 @@ const theme = createTheme({
 
 const Card = () => {
 	return (
-		<div className='flex flex-col lg:flex-row justify-center items-center gap-8'>
+		<div className='flex flex flex-col  lg:flex-row justify-center items-center gap-8'>
 			<div
 				className='w-[320px] h-[260px]  p-10'
 				style={{
