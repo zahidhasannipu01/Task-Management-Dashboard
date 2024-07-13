@@ -1,0 +1,18 @@
+.card1 {
+	width: 300px;
+	height: 230px;
+	background-color: red;
+	border-radius: 30px;
+	position: relative;
+	padding: 10px;
+	clip-path: polygon(
+		0 0,
+		42% 0,
+		51% 18%,
+		100% 19%,
+		100% 100%,
+		0 100%,
+		0 64%,
+		0 23%
+	);
+}
